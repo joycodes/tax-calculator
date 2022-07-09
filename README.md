@@ -36,9 +36,11 @@ Double click the index.html to open with live server
 ---
 
 ## Technologies Used
->* HTML.
->* JavaScript.
+>* HTML5.
+>* Bootstrap.
 >* CSS.
+>* Git
+>* JavaScript
  
 ---
 
